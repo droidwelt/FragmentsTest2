@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_fr2_item21"
+        android:title="Item21"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_fr2_item22"
+        android:title="Item22"
+        app:showAsAction="ifRoom" />
+</menu>
